@@ -1,1 +1,16 @@
-# desafio2
+# <h1 align="center">
+   GoFinancesWeb
+</h1>
+
+<br>
+
+O projeto usa as seguintes tecnologias:
+
+✔️HTML
+✔️CSS
+✔️Java Script
+
+## Projeto
+
+Página de cadastro de produtos e clientes. Desafio 2 do programa Hiring Coders.
+
