@@ -12,5 +12,12 @@ O projeto usa as seguintes tecnologias:
 
 ✔️JavaScript
 
+O projeto precisa das seguintes melhorias:
+
+✔️Melhoras dados no localstorage
+
+✔️Design da página
+
+
 
 
