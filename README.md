@@ -14,7 +14,7 @@ O projeto usa as seguintes tecnologias:
 
 O projeto precisa das seguintes melhorias:
 
-✔️Melhoras dados no localstorage
+✔️Melhorar dados no localstorage
 
 ✔️Design da página
 
